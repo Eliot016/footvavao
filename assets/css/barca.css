@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    color: red;
+}
+.rencontre{
+    background-color: blue;
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 54%;
+    margin-left: 25%;
+}
+p{
+    text-align: center;
+    color: beige;
+}
