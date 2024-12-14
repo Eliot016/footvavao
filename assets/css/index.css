@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+.nav-link{
+    color: white;
+    font-family: berlin sans fb;
+    font-weight: bold;
+    transition: 0.5s;
+}
